@@ -1,3 +1,2 @@
-env/
-*.csv
-*.txt
+git rm --cached *.csv *.txt
+env
